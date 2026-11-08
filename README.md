@@ -1,2 +1,1 @@
-# minhdumper
-LOL
+run your own game using the.rblx bro this is takes so long to make

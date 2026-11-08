@@ -1,0 +1,49 @@
+[Global]
+  [2m15:23:46[0m | [92m✅ PASS[0m | Primitive                 [97m0x180[0m | [2m06 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:23:46[0m | [92m✅ PASS[0m | Overlap                   [97m0x200[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:23:46[0m | [92m✅ PASS[0m | ScriptContext             [97m0x440[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:23:46[0m | [92m✅ PASS[0m | Children                  [97m0x70[0m | [2m6D 6F 64 65 2E 0D 0D 0A[0m [96m| Unknown[0m
+  [2m15:23:46[0m | [92m✅ PASS[0m | ClassDescriptor           [97m0x18[0m | [2m40 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:23:46[0m | [92m✅ PASS[0m | FakeDataModelToDataModel  [97m0x1F0[0m | [2m00 C0 39 09 54 70 11 00[0m [96m| 0.00[0m
+  [2m15:23:46[0m | [92m✅ PASS[0m | name                      [97m0x68[0m | [2m20 69 6E 20 44 4F 53 20[0m [96m| 0.00[0m
+  [2m15:23:46[0m | [92m✅ PASS[0m | name_str                  [97m0x0[0m | [2m4D 5A 90 00 03 00 00 00[0m [96m| 0.00[0m
+  [2m15:23:46[0m | [92m✅ PASS[0m | ScriptContextToResume     [97m0x908[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:23:46[0m | [92m✅ PASS[0m | Capabilities              [97m0x30[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:23:46[0m | [92m✅ PASS[0m | LocalScriptByteCode       [97m0x180[0m | [2m06 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:23:46[0m | [92m✅ PASS[0m | ModuleScriptByteCode      [97m0x138[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:23:46[0m | [92m✅ PASS[0m | BytecodeStringOffset      [97m0x18[0m | [2m40 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:23:46[0m | [92m✅ PASS[0m | ServerContextFlag         [97m0x130[0m | [2m52 69 63 68 B1 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:23:46[0m | [92m✅ PASS[0m | Pointer                   [97m0x10[0m | [2mB8 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:23:46[0m | [92m✅ PASS[0m | Size                      [97m0x28[0m | [2m00 00 00 00 00 00 00 00[0m [96m| (0.0, 0.0, 0.0)[0m
+  [2m15:23:46[0m | [92m✅ PASS[0m | InstanceSelf              [97m0x8[0m | [2m04 00 00 00 FF FF 00 00[0m [96m| 0.00[0m
+  [2m15:23:46[0m | [92m✅ PASS[0m | PropertyMap               [97m0x1D8[0m | [2m00 20 2E 09 B8 9C 0B 00[0m [96m| 0.00[0m
+  [2m15:23:46[0m | [92m✅ PASS[0m | MapIndices                [97m0x8[0m | [2m04 00 00 00 FF FF 00 00[0m [96m| 0.00[0m
+  [2m15:23:46[0m | [92m✅ PASS[0m | EntryKind                 [97m0x8[0m | [2m04 00 00 00 FF FF 00 00[0m [96m| 0.00[0m
+  [2m15:23:47[0m | [92m✅ PASS[0m | TypeInfo                  [97m0x70[0m | [2m6D 6F 64 65 2E 0D 0D 0A[0m [96m| Unknown[0m
+  [2m15:23:47[0m | [92m✅ PASS[0m | TypeNum                   [97m0x30[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:23:47[0m | [92m✅ PASS[0m | Flags                     [97m0x94[0m | [2m9B 47 E1 CF 62 35 E7 CE[0m [96m| Unknown[0m
+  [2m15:23:47[0m | [92m✅ PASS[0m | FlagScriptable            [97m0x10[0m | [2mB8 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:23:47[0m | [92m✅ PASS[0m | GetSet                    [97m0x98[0m | [2m62 35 E7 CE B0 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:23:47[0m | [92m✅ PASS[0m | GetterSlot                [97m0x18[0m | [2m40 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:23:47[0m | [92m✅ PASS[0m | SharedStringCanary        [97m0x0[0m | [2m4D 5A 90 00 03 00 00 00[0m [96m| 0.00[0m
+  [2m15:23:47[0m | [91m❌ FAIL[0m | SharedStringCanaryValue   [97m0xF1F1F1F1[0m | [2m??[0m
+  [2m15:23:47[0m | [92m✅ PASS[0m | SharedStringPayload       [97m0x18[0m | [2m40 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:23:47[0m | [92m✅ PASS[0m | SharedStringRefcount      [97m0x40[0m | [2m0E 1F BA 0E 00 B4 09 CD[0m [96m| 0.00[0m
+  [2m15:23:47[0m | [92m✅ PASS[0m | JobStart                  [97m0xC8[0m | [2mE3 32 E5 CE A2 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:23:47[0m | [92m✅ PASS[0m | JobName                   [97m0x18[0m | [2m40 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:23:47[0m | [92m✅ PASS[0m | VisualEngineToRenderView  [97m0xC40[0m | [2m00 00 00 00 00 00 00 00[0m [96m| Flag: False[0m
+  [2m15:23:47[0m | [92m✅ PASS[0m | RenderJobToView           [97m0x1E0[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:23:47[0m | [92m✅ PASS[0m | ViewToDevice              [97m0x8[0m | [2m04 00 00 00 FF FF 00 00[0m [96m| 0.00[0m
+  [2m15:23:47[0m | [92m✅ PASS[0m | DeviceToSwapChain         [97m0x80[0m | [2mF5 26 8F 9C B1 47 E1 CF[0m [96m| -0.00[0m
+  [2m15:23:47[0m | [92m✅ PASS[0m | RequireBypass             [97m0xA81[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+
+[Signal]
+  [2m15:23:47[0m | [92m✅ PASS[0m | EventArguments            [97m0x50[0m | [2m69 73 20 70 72 6F 67 72[0m [96m| Unknown[0m
+  [2m15:23:47[0m | [92m✅ PASS[0m | EventArgumentSize         [97m0x70[0m | [2m6D 6F 64 65 2E 0D 0D 0A[0m [96m| Unknown[0m
+  [2m15:23:47[0m | [92m✅ PASS[0m | EventArgumentType         [97m0x8[0m | [2m04 00 00 00 FF FF 00 00[0m [96m| 0.00[0m
+
+
+byteblue offsets test results
+✅ 39/40 Tests Passed
+❌ 1/40 Test Failed/Missing
+⚠️ 0/40 missing aliases/ or not returning correct vlue

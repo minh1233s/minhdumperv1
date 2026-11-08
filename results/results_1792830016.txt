@@ -1,0 +1,677 @@
+[AirProperties]
+  [2m15:20:04[0m | [92m✅ PASS[0m | AirDensity                [97m0x18[0m | [2m40 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:04[0m | [92m✅ PASS[0m | GlobalWind                [97m0x3C[0m | [2m40 01 00 00 0E 1F BA 0E[0m [96m| 0.00[0m
+
+[AnimationTrack]
+  [2m15:20:04[0m | [92m✅ PASS[0m | Animation                 [97m0xA0[0m | [2m62 35 E0 CE 97 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:04[0m | [92m✅ PASS[0m | Animator                  [97m0xF8[0m | [2m7B 32 E2 CE B4 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:04[0m | [92m✅ PASS[0m | Looped                    [97m0xA0C[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:04[0m | [92m✅ PASS[0m | Speed                     [97m0xBC[0m | [2mC0 47 E1 CF D7 28 1C CF[0m [96m| Unknown[0m
+  [2m15:20:04[0m | [92m✅ PASS[0m | TimePosition              [97m0xC0[0m | [2mD7 28 1C CF B6 47 E1 CF[0m [96m| Unknown[0m
+
+[Animator]
+  [2m15:20:04[0m | [92m✅ PASS[0m | ActiveAnimations          [97m0x900[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+
+[Atmosphere]
+  [2m15:20:04[0m | [92m✅ PASS[0m | Color                     [97m0xA0[0m | [2m62 35 E0 CE 97 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:04[0m | [92m✅ PASS[0m | Decay                     [97m0xAC[0m | [2m92 47 E1 CF 62 35 E4 CE[0m [96m| Unknown[0m
+  [2m15:20:04[0m | [92m✅ PASS[0m | Density                   [97m0xB8[0m | [2m62 35 E5 CE C0 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:04[0m | [92m✅ PASS[0m | Glare                     [97m0xBC[0m | [2mC0 47 E1 CF D7 28 1C CF[0m [96m| Unknown[0m
+  [2m15:20:04[0m | [92m✅ PASS[0m | Haze                      [97m0xC0[0m | [2mD7 28 1C CF B6 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:04[0m | [92m✅ PASS[0m | Offset                    [97m0xC4[0m | [2mB6 47 E1 CF E3 32 E5 CE[0m [96m| Unknown[0m
+
+[Attachment]
+  [2m15:20:04[0m | [92m✅ PASS[0m | Position                  [97m0xAC[0m | [2m92 47 E1 CF 62 35 E4 CE[0m [96m| Unknown[0m
+
+[Attribute]
+  [2m15:20:04[0m | [92m✅ PASS[0m | Key                       [97m0x0[0m | [2m4D 5A 90 00 03 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:04[0m | [92m✅ PASS[0m | Size                      [97m0x58[0m | [2m61 6D 20 63 61 6E 6E 6F[0m [96m| Unknown[0m
+  [2m15:20:04[0m | [92m✅ PASS[0m | TypeIdRva                 [97m0x8E446F4[0m | [2m00 00 00 00 10 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:04[0m | [92m✅ PASS[0m | TypeIdRvaNew              [97m0x8E446FC[0m | [2m00 00 00 00 F1 09 00 80[0m [96m| 0.00[0m
+  [2m15:20:04[0m | [92m✅ PASS[0m | Value                     [97m0x8[0m | [2m04 00 00 00 FF FF 00 00[0m [96m| 0.00[0m
+
+[AttributesMap]
+  [2m15:20:04[0m | [92m✅ PASS[0m | Attributes                [97m0x10[0m | [2mB8 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:05[0m | [92m✅ PASS[0m | Length                    [97m0x0[0m | [2m4D 5A 90 00 03 00 00 00[0m [96m| 0.00[0m
+
+[BasePart]
+  [2m15:20:05[0m | [92m✅ PASS[0m | CastShadow                [97m0x120[0m | [2m7B 32 E1 CE B0 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:05[0m | [92m✅ PASS[0m | ClusterNode               [97m0xE0[0m | [2mE3 32 E4 CE C7 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:05[0m | [92m✅ PASS[0m | Color3                    [97m0x11C[0m | [2m6C 67 E1 CF 7B 32 E1 CE[0m [96m| Unknown[0m
+  [2m15:20:05[0m | [92m✅ PASS[0m | Locked                    [97m0x121[0m | [2m32 E1 CE B0 47 E1 CF 7B[0m [96m| -0.00[0m
+  [2m15:20:05[0m | [92m✅ PASS[0m | Massless                  [97m0x122[0m | [2mE1 CE B0 47 E1 CF 7B 32[0m [96m| 90525.76[0m
+  [2m15:20:05[0m | [92m✅ PASS[0m | Primitive                 [97m0x178[0m | [2m00 10 00 00 00 02 00 00[0m [96m| 0.00[0m
+  [2m15:20:05[0m | [92m✅ PASS[0m | Reflectance               [97m0xF4[0m | [2mBA 43 E1 CF 7B 32 E2 CE[0m [96m| Unknown[0m
+  [2m15:20:05[0m | [92m✅ PASS[0m | Shape                     [97m0x1A0[0m | [2m00 00 40 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:05[0m | [92m✅ PASS[0m | Transparency              [97m0x118[0m | [2m7B 32 E8 CE 6C 67 E1 CF[0m [96m| Unknown[0m
+
+[Beam]
+  [2m15:20:05[0m | [92m✅ PASS[0m | Attachment0               [97m0x148[0m | [2m04 89 1C 74 00 00 00 00[0m [96m| Unknown[0m
+  [2m15:20:05[0m | [92m✅ PASS[0m | Attachment1               [97m0x158[0m | [2m0B 02 0E 1D 00 40 43 06[0m [96m| 0.00[0m
+  [2m15:20:05[0m | [92m✅ PASS[0m | Brightness                [97m0x168[0m | [2m04 40 4B 09 00 10 00 00[0m [96m| 0.00[0m
+  [2m15:20:05[0m | [92m✅ PASS[0m | CurveSize0                [97m0x16C[0m | [2m00 10 00 00 00 00 40 56[0m [96m| 0.00[0m
+  [2m15:20:05[0m | [92m✅ PASS[0m | CurveSize1                [97m0x170[0m | [2m00 00 40 56 F7 7F 00 00[0m [96m| 0x7FF756400000[0m
+  [2m15:20:05[0m | [92m✅ PASS[0m | LightEmission             [97m0x174[0m | [2mF7 7F 00 00 00 10 00 00[0m [96m| 0.00[0m
+  [2m15:20:05[0m | [92m✅ PASS[0m | LightInfluence            [97m0x178[0m | [2m00 10 00 00 00 02 00 00[0m [96m| 0.00[0m
+  [2m15:20:05[0m | [92m✅ PASS[0m | Segments                  [97m0x180[0m | [2m06 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:05[0m | [92m✅ PASS[0m | Texture                   [97m0x128[0m | [2m7B 32 E3 CE B0 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:05[0m | [92m✅ PASS[0m | TextureLength             [97m0x184[0m | [2m00 00 00 00 06 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:05[0m | [92m✅ PASS[0m | TextureSpeed              [97m0x18C[0m | [2m00 00 00 00 00 60 4B 09[0m [96m| 0.00[0m
+  [2m15:20:05[0m | [92m✅ PASS[0m | Width0                    [97m0x190[0m | [2m00 60 4B 09 00 06 00 00[0m [96m| 0.00[0m
+  [2m15:20:05[0m | [92m✅ PASS[0m | Width1                    [97m0x194[0m | [2m00 06 00 00 C8 44 AB 08[0m [96m| 0.00[0m
+  [2m15:20:05[0m | [92m✅ PASS[0m | ZOffset                   [97m0x198[0m | [2mC8 44 AB 08 02 00 60 81[0m [96m| 0.00[0m
+
+[BloomEffect]
+  [2m15:20:05[0m | [92m✅ PASS[0m | Enabled                   [97m0x98[0m | [2m62 35 E7 CE B0 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:05[0m | [92m✅ PASS[0m | Intensity                 [97m0xA0[0m | [2m62 35 E0 CE 97 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:05[0m | [92m✅ PASS[0m | Size                      [97m0xA4[0m | [2m97 47 E1 CF 62 35 E2 CE[0m [96m| Unknown[0m
+  [2m15:20:05[0m | [92m✅ PASS[0m | Threshold                 [97m0xA8[0m | [2m62 35 E2 CE 92 47 E1 CF[0m [96m| Unknown[0m
+
+[BlurEffect]
+  [2m15:20:05[0m | [92m✅ PASS[0m | Enabled                   [97m0x98[0m | [2m62 35 E7 CE B0 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:05[0m | [92m✅ PASS[0m | Size                      [97m0xA0[0m | [2m62 35 E0 CE 97 47 E1 CF[0m [96m| Unknown[0m
+
+[BoxHandleAdornment]
+  [2m15:20:05[0m | [92m✅ PASS[0m | Adornee                   [97m0xD8[0m | [2mE2 38 E4 CE B0 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:05[0m | [92m✅ PASS[0m | Color3                    [97m0xC0[0m | [2mD7 28 1C CF B6 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:05[0m | [92m✅ PASS[0m | Size                      [97m0x190[0m | [2m00 60 4B 09 00 06 00 00[0m [96m| (0.0, 0.0, 0.0)[0m
+
+[ByteCode]
+  [2m15:20:05[0m | [92m✅ PASS[0m | Pointer                   [97m0x10[0m | [2mB8 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | Size                      [97m0x28[0m | [2m00 00 00 00 00 00 00 00[0m [96m| (0.0, 0.0, 0.0)[0m
+
+[CachedItem]
+  [2m15:20:06[0m | [92m✅ PASS[0m | FileMeshData              [97m0x28[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+
+[Camera]
+  [2m15:20:06[0m | [92m✅ PASS[0m | CameraSubject             [97m0xB0[0m | [2m62 35 E4 CE 6A 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | CameraType                [97m0x120[0m | [2m7B 32 E1 CE B0 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | FieldOfView               [97m0x128[0m | [2m7B 32 E3 CE B0 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | ImagePlaneDepth           [97m0x2CC[0m | [2m00 10 0F 08 00 26 4A 00[0m [96m| 0.00[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | Position                  [97m0xEC[0m | [2m20 47 E1 CF B1 47 E0 CF[0m [96m| Unknown[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | Rotation                  [97m0xC8[0m | [2mE3 32 E5 CE A2 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | Viewport                  [97m0x27C[0m | [2m00 50 43 06 00 0A 00 00[0m [96m| 0.00[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | ViewportSize              [97m0x2BC[0m | [2m40 00 00 40 2E 64 61 74[0m [96m| 2.00[0m
+
+[CharacterMesh]
+  [2m15:20:06[0m | [92m✅ PASS[0m | BaseTextureId             [97m0xB0[0m | [2m62 35 E4 CE 6A 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | BodyPart                  [97m0x130[0m | [2m52 69 63 68 B1 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | MeshId                    [97m0xE0[0m | [2mE3 32 E4 CE C7 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | OverlayTextureId          [97m0x110[0m | [2m7B 32 1E CF B0 47 E1 CF[0m [96m| Unknown[0m
+
+[ClickDetector]
+  [2m15:20:06[0m | [92m✅ PASS[0m | MaxActivationDistance     [97m0xD0[0m | [2mE3 32 E2 CE A3 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | MouseIcon                 [97m0xB0[0m | [2m62 35 E4 CE 6A 47 E1 CF[0m [96m| Unknown[0m
+
+[Clothing]
+  [2m15:20:06[0m | [92m✅ PASS[0m | Color3                    [97m0x108[0m | [2mB1 47 E1 CF E3 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | Template                  [97m0xE8[0m | [2m7B 32 E4 CE 20 47 E1 CF[0m [96m| Unknown[0m
+
+[ColorCorrectionEffect]
+  [2m15:20:06[0m | [92m✅ PASS[0m | Brightness                [97m0xAC[0m | [2m92 47 E1 CF 62 35 E4 CE[0m [96m| Unknown[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | Contrast                  [97m0xB0[0m | [2m62 35 E4 CE 6A 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | Enabled                   [97m0x98[0m | [2m62 35 E7 CE B0 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | TintColor                 [97m0xA0[0m | [2m62 35 E0 CE 97 47 E1 CF[0m [96m| Unknown[0m
+
+[ColorGradingEffect]
+  [2m15:20:06[0m | [92m✅ PASS[0m | Enabled                   [97m0x98[0m | [2m62 35 E7 CE B0 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | TonemapperPreset          [97m0xA0[0m | [2m62 35 E0 CE 97 47 E1 CF[0m [96m| Unknown[0m
+
+[DataModel]
+  [2m15:20:06[0m | [92m✅ PASS[0m | Camera                    [97m0x4A0[0m | [2m00 00 00 00 00 00 00 00[0m [96m| (0.0, 0.0, 0.0)[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | CreatorId                 [97m0x170[0m | [2m00 00 40 56 F7 7F 00 00[0m [96m| 0x7FF756400000[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | GameId                    [97m0x178[0m | [2m00 10 00 00 00 02 00 00[0m [96m| 0.00[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | GameLoaded                [97m0x5C8[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | JobId                     [97m0x108[0m | [2mB1 47 E1 CF E3 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | PlaceId                   [97m0x180[0m | [2m06 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | PlaceVersion              [97m0x1A4[0m | [2m00 00 00 00 00 10 00 00[0m [96m| 0.00[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | PrimitiveCount            [97m0x410[0m | [2m00 02 00 00 00 82 AA 08[0m [96m| 0.00[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | ScriptContext             [97m0x440[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | ServerIP                  [97m0x5B0[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | ToRenderView1             [97m0x1B8[0m | [2m00 10 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | ToRenderView2             [97m0x8[0m | [2m04 00 00 00 FF FF 00 00[0m [96m| 0.00[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | ToRenderView3             [97m0x28[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | Workspace                 [97m0x148[0m | [2m04 89 1C 74 00 00 00 00[0m [96m| Unknown[0m
+
+[DepthOfFieldEffect]
+  [2m15:20:06[0m | [92m✅ PASS[0m | Enabled                   [97m0x98[0m | [2m62 35 E7 CE B0 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | FarIntensity              [97m0xA0[0m | [2m62 35 E0 CE 97 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | FocusDistance             [97m0xA4[0m | [2m97 47 E1 CF 62 35 E2 CE[0m [96m| Unknown[0m
+  [2m15:20:06[0m | [92m✅ PASS[0m | InFocusRadius             [97m0xA8[0m | [2m62 35 E2 CE 92 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | NearIntensity             [97m0xAC[0m | [2m92 47 E1 CF 62 35 E4 CE[0m [96m| Unknown[0m
+
+[DeviceD3D11]
+  [2m15:20:07[0m | [92m✅ PASS[0m | Context                   [97m0x180[0m | [2m06 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | ContextObj                [97m0x1B0[0m | [2m00 00 10 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | ContextPtr                [97m0x180[0m | [2m06 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | DevicePtr                 [97m0x228[0m | [2m42 52 4B 09 10 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | SwapChainPtr              [97m0x80[0m | [2mF5 26 8F 9C B1 47 E1 CF[0m [96m| -0.00[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | VTableRva                 [97m0x6FFA390[0m | [2m90 57 C5 58 F7 7F 00 00[0m [96m| Unknown[0m
+
+[DragDetector]
+  [2m15:20:07[0m | [92m✅ PASS[0m | ActivatedCursorIcon       [97m0x1A8[0m | [2m00 10 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | CursorIcon                [97m0xB0[0m | [2m62 35 E4 CE 6A 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | GamepadModeSwitchKeyCode  [97m0x288[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | KeyboardModeSwitchKeyCode [97m0x28C[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | MaxActivationDistance     [97m0xD0[0m | [2mE3 32 E2 CE A3 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | MaxDragAngle              [97m0x290[0m | [2m00 00 00 00 20 00 00 60[0m [96m| 0.00[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | MaxDragTranslation        [97m0x254[0m | [2m00 10 00 00 00 36 43 06[0m [96m| 0.00[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | MaxForce                  [97m0x294[0m | [2m20 00 00 60 2E 72 64 61[0m [96m| Unknown[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | MaxTorque                 [97m0x298[0m | [2m2E 72 64 61 74 61 00 00[0m [96m| Str: ".rdata"[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | MinDragAngle              [97m0x29C[0m | [2m74 61 00 00 DE AC CB 01[0m [96m| 0.00[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | MinDragTranslation        [97m0x260[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | ReferenceInstance         [97m0x1D8[0m | [2m00 20 2E 09 B8 9C 0B 00[0m [96m| 0.00[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | Responsiveness            [97m0x2A8[0m | [2m00 AE CB 01 00 46 43 06[0m [96m| 0.00[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | VRSwitchKeyCode           [97m0x2B4[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+
+[FakeDataModel]
+  [2m15:20:07[0m | [92m✅ PASS[0m | Pointer                   [97m0x8BCFD50[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | RealDataModel             [97m0x1F0[0m | [2m00 C0 39 09 54 70 11 00[0m [96m| 0.00[0m
+
+[FastCluster]
+  [2m15:20:07[0m | [92m✅ PASS[0m | VTableRva                 [97m0x7066268[0m | [2m10 1E D9 59 F7 7F 00 00[0m [96m| 0x7FF759D91E10[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | VTableRvaSub              [97m0x7066130[0m | [2m70 C0 D9 59 F7 7F 00 00[0m [96m| Unknown[0m
+
+[FastClusterBinding]
+  [2m15:20:07[0m | [92m✅ PASS[0m | Owner                     [97m0x60[0m | [2m74 20 62 65 20 72 75 6E[0m [96m| Unknown[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | VTableRva                 [97m0x7067390[0m | [2mE0 4F E3 59 F7 7F 00 00[0m [96m| 0x7FF759E34FE0[0m
+
+[FastClusterEntity]
+  [2m15:20:07[0m | [92m✅ PASS[0m | AlphaByte                 [97m0x14[0m | [2m00 00 00 00 40 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | BBoxMaxX                  [97m0xA4[0m | [2m97 47 E1 CF 62 35 E2 CE[0m [96m| Unknown[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | BBoxMaxY                  [97m0xA8[0m | [2m62 35 E2 CE 92 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | BBoxMaxZ                  [97m0xAC[0m | [2m92 47 E1 CF 62 35 E4 CE[0m [96m| Unknown[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | BBoxMinX                  [97m0x98[0m | [2m62 35 E7 CE B0 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | BBoxMinY                  [97m0x9C[0m | [2mB0 47 E1 CF 62 35 E0 CE[0m [96m| Unknown[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | BBoxMinZ                  [97m0xA0[0m | [2m62 35 E0 CE 97 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | ContextPtr                [97m0x8[0m | [2m04 00 00 00 FF FF 00 00[0m [96m| 0.00[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | DecalMaterialPtr          [97m0x48[0m | [2m21 B8 01 4C CD 21 54 68[0m [96m| Unknown[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | MaterialPtr               [97m0x20[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | PrimitiveIndexArrayPtr    [97m0x80[0m | [2mF5 26 8F 9C B1 47 E1 CF[0m [96m| -0.00[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | RenderQueueId             [97m0x10[0m | [2mB8 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | TechniqueArrayPtr         [97m0x70[0m | [2m6D 6F 64 65 2E 0D 0D 0A[0m [96m| Unknown[0m
+  [2m15:20:07[0m | [92m✅ PASS[0m | VTableRva                 [97m0x7067468[0m | [2mE0 5B E3 59 F7 7F 00 00[0m [96m| 0x7FF759E35BE0[0m
+
+[FFlag]
+  [2m15:20:07[0m | [92m✅ PASS[0m | RenderFastClusterOcclusionCulling [97m0x862BC90[0m | [2mE0 CB 2E 5F F7 7F 00 00[0m [96m| 0x7FF75F2ECBE0[0m
+
+[FileMeshData]
+  [2m15:20:07[0m | [92m✅ PASS[0m | AABBMax                   [97m0x18C[0m | [2m00 00 00 00 00 60 4B 09[0m [96m| 0.00[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | AABBMin                   [97m0x180[0m | [2m06 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+
+[GeometryD3D11]
+  [2m15:20:08[0m | [92m✅ PASS[0m | VTableRva                 [97m0x6FFAA80[0m | [2mE0 8F C6 58 F7 7F 00 00[0m [96m| 0x7FF758C68FE0[0m
+
+[GuiBase2D]
+  [2m15:20:08[0m | [92m✅ PASS[0m | AbsoluteRotation          [97m0xD0[0m | [2mE3 32 E2 CE A3 47 E1 CF[0m [96m| Unknown[0m
+
+[GuiObject]
+  [2m15:20:08[0m | [92m✅ PASS[0m | BackgroundColor3          [97m0x528[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | BackgroundTransparency    [97m0x534[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | BorderColor3              [97m0x534[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | Image                     [97m0x9D8[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | LayoutOrder               [97m0x564[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | PlaceholderColor3         [97m0xF00[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | Position                  [97m0x500[0m | [2m00 00 00 00 00 00 00 00[0m [96m| (0.0, 0.0, 0.0)[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | RichText                  [97m0xBD0[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | Rotation                  [97m0xD0[0m | [2mE3 32 E2 CE A3 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | ScreenGui_Enabled         [97m0x4AC[0m | [2m00 00 00 00 00 00 00 00[0m [96m| Flag: False[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | Size                      [97m0x520[0m | [2m00 00 00 00 00 00 00 00[0m [96m| (0.0, 0.0, 0.0)[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | Text                      [97m0xBD0[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | TextColor3                [97m0xEE8[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | Visible                   [97m0x560[0m | [2m00 00 00 00 00 00 00 00[0m [96m| Flag: False[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | ZIndex                    [97m0x58C[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+
+[Humanoid]
+  [2m15:20:08[0m | [92m✅ PASS[0m | AutoJumpEnabled           [97m0x1C8[0m | [2m30 A8 0E 08 8C 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | AutomaticScalingEnabled   [97m0x1CA[0m | [2m0E 08 8C 00 00 00 0A 52[0m [96m| 0.00[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | AutoRotate                [97m0x1C5[0m | [2m00 00 00 30 A8 0E 08 8C[0m [96m| 0.00[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | BreakJointsOnDeath        [97m0x1CB[0m | [2m08 8C 00 00 00 0A 52 4B[0m [96m| 0.00[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | CameraOffset              [97m0x118[0m | [2m7B 32 E8 CE 6C 67 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | DisplayDistanceType       [97m0x174[0m | [2mF7 7F 00 00 00 10 00 00[0m [96m| 0.00[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | DisplayName               [97m0xA0[0m | [2m62 35 E0 CE 97 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | EvaluateStateMachine      [97m0x1CC[0m | [2m8C 00 00 00 0A 52 4B 09[0m [96m| 0.00[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | FloorMaterial             [97m0x174[0m | [2mF7 7F 00 00 00 10 00 00[0m [96m| 0.00[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | Health                    [97m0x184[0m | [2m00 00 00 00 06 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | HealthDisplayDistance     [97m0x17C[0m | [2m00 02 00 00 06 00 00 00[0m [96m| Flag: False[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | HealthDisplayType         [97m0x180[0m | [2m06 00 00 00 00 00 00 00[0m [96m| Flag: 6[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | HipHeight                 [97m0x184[0m | [2m00 00 00 00 06 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | HumanoidRootPart          [97m0x460[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | HumanoidState             [97m0x8A0[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | HumanoidStateID           [97m0x20[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | IsWalking                 [97m0xA1F[0m | [2m00 00 00 00 00 00 00 00[0m [96m| Flag: False[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | Jump                      [97m0x174[0m | [2mF7 7F 00 00 00 10 00 00[0m [96m| 0.00[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | JumpHeight                [97m0x194[0m | [2m00 06 00 00 C8 44 AB 08[0m [96m| 0.00[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | JumpPower                 [97m0x198[0m | [2mC8 44 AB 08 02 00 60 81[0m [96m| 0.00[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | MaxHealth                 [97m0x19C[0m | [2m02 00 60 81 00 00 40 00[0m [96m| -0.00[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | MaxSlopeAngle             [97m0x1A0[0m | [2m00 00 40 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | MoveDirection             [97m0x130[0m | [2m52 69 63 68 B1 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | MoveToPart                [97m0x108[0m | [2mB1 47 E1 CF E3 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:08[0m | [92m✅ PASS[0m | MoveToPoint               [97m0x154[0m | [2mF0 00 22 00 0B 02 0E 1D[0m [96m| 0.00[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | NameDisplayDistance       [97m0x1A4[0m | [2m00 00 00 00 00 10 00 00[0m [96m| Flag: False[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | NameOcclusion             [97m0x1A8[0m | [2m00 10 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | PlatformStand             [97m0x1A8[0m | [2m00 10 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | RequiresNeck              [97m0x1D2[0m | [2m4B 09 28 00 00 00 00 20[0m [96m| 0.00[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | RigType                   [97m0x1B4[0m | [2m00 00 00 00 00 10 00 00[0m [96m| 0.00[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | SeatPart                  [97m0xF0[0m | [2mB1 47 E0 CF BA 43 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | Sit                       [97m0x1D2[0m | [2m4B 09 28 00 00 00 00 20[0m [96m| 0.00[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | TargetPoint               [97m0x13C[0m | [2m00 00 00 00 50 45 00 00[0m [96m| 0.00[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | UseJumpPower              [97m0x1D5[0m | [2m00 00 00 00 20 2E 09 B8[0m [96m| Flag: False[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | Walkspeed                 [97m0x1C4[0m | [2m10 00 00 00 30 A8 0E 08[0m [96m| 0.00[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | WalkspeedCheck            [97m0x39C[0m | [2m00 70 8D 08 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | WalkTimer                 [97m0x0[0m | [2m4D 5A 90 00 03 00 00 00[0m [96m| 0.00[0m
+
+[Hyperion]
+  [2m15:20:09[0m | [92m✅ PASS[0m | KTable                    [97m0x85EAD60[0m | [2m00 16 5D 15 B9 02 00 00[0m [96m| 0x2B9155D1600[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | LuaC_Step                 [97m0x26B0B80[0m | [2m48 89 5C 24 08 48 89 6C[0m [96m| 0.00[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | LuaO_NilObject            [97m0x67BB388[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+
+[Instance]
+  [2m15:20:09[0m | [92m✅ PASS[0m | AttributeContainer        [97m0x40[0m | [2m0E 1F BA 0E 00 B4 09 CD[0m [96m| 0.00[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | AttributeList             [97m0x10[0m | [2mB8 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | AttributeToNext           [97m0x58[0m | [2m61 6D 20 63 61 6E 6E 6F[0m [96m| Unknown[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | AttributeToValue          [97m0x18[0m | [2m40 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | ChildrenEnd               [97m0x8[0m | [2m04 00 00 00 FF FF 00 00[0m [96m| 0.00[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | ChildrenStart             [97m0x70[0m | [2m6D 6F 64 65 2E 0D 0D 0A[0m [96m| Unknown[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | ClassBase                 [97m0x1B0[0m | [2m00 00 10 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | ClassDescriptor           [97m0x18[0m | [2m40 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | ClassName                 [97m0x8[0m | [2m04 00 00 00 FF FF 00 00[0m [96m| 0.00[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | Name                      [97m0x0[0m | [2m4D 5A 90 00 03 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | NameContainer             [97m0x68[0m | [2m20 69 6E 20 44 4F 53 20[0m [96m| 0.00[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | Parent                    [97m0x60[0m | [2m74 20 62 65 20 72 75 6E[0m [96m| Unknown[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | This                      [97m0x8[0m | [2m04 00 00 00 FF FF 00 00[0m [96m| Flag: 4[0m
+
+[Lighting]
+  [2m15:20:09[0m | [92m✅ PASS[0m | Ambient                   [97m0xB8[0m | [2m62 35 E5 CE C0 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | Brightness                [97m0x100[0m | [2m7B 32 E5 CE 36 44 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | ClockTime                 [97m0xB0[0m | [2m62 35 E4 CE 6A 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | ColorShift_Bottom         [97m0xD0[0m | [2mE3 32 E2 CE A3 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | ColorShift_Top            [97m0xC4[0m | [2mB6 47 E1 CF E3 32 E5 CE[0m [96m| Unknown[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | EnvironmentDiffuseScale   [97m0x104[0m | [2m36 44 E1 CF B1 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | EnvironmentSpecularScale  [97m0x108[0m | [2mB1 47 E1 CF E3 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | ExposureCompensation      [97m0x10C[0m | [2mE3 47 E1 CF 7B 32 1E CF[0m [96m| Unknown[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | FogColor                  [97m0xDC[0m | [2mB0 47 E1 CF E3 32 E4 CE[0m [96m| Unknown[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | FogEnd                    [97m0x114[0m | [2mB0 47 E1 CF 7B 32 E8 CE[0m [96m| Unknown[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | FogStart                  [97m0x118[0m | [2m7B 32 E8 CE 6C 67 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | GeographicLatitude        [97m0x11C[0m | [2m6C 67 E1 CF 7B 32 E1 CE[0m [96m| Unknown[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | GlobalShadows             [97m0x12C[0m | [2mB0 47 E1 CF 52 69 63 68[0m [96m| Unknown[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | GradientBottom            [97m0x178[0m | [2m00 10 00 00 00 02 00 00[0m [96m| 0.00[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | GradientTop               [97m0x138[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:09[0m | [92m✅ PASS[0m | LightColor                [97m0x144[0m | [2m64 86 0D 00 04 89 1C 74[0m [96m| 0.00[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | LightDirection            [97m0x150[0m | [2m00 00 00 00 F0 00 22 00[0m [96m| 0.00[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | MoonPosition              [97m0x16C[0m | [2m00 10 00 00 00 00 40 56[0m [96m| 0.00[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | OutdoorAmbient            [97m0xE8[0m | [2m7B 32 E4 CE 20 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | Sky                       [97m0x1B0[0m | [2m00 00 10 00 00 00 00 00[0m [96m| 0.00[0m
+
+[LocalScript]
+  [2m15:20:10[0m | [92m✅ PASS[0m | GUID                      [97m0xC0[0m | [2mD7 28 1C CF B6 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | Hash                      [97m0x188[0m | [2m06 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+
+[LRUHolder]
+  [2m15:20:10[0m | [92m✅ PASS[0m | MemEnforcedLRUCache       [97m0x20[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+
+[LRUNode]
+  [2m15:20:10[0m | [92m✅ PASS[0m | AssetID                   [97m0x10[0m | [2mB8 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | CachedItem                [97m0x38[0m | [2m00 00 00 00 40 01 00 00[0m [96m| 0.00[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | Next                      [97m0x0[0m | [2m4D 5A 90 00 03 00 00 00[0m [96m| 0.00[0m
+
+[Luau]
+  [2m15:20:10[0m | [92m✅ PASS[0m | lua_checkstack            [97m0x422409D[0m | [2m48 8B CF E8 FB BE 37 FF[0m [96m| Unknown[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | luaD_Throw                [97m0x2691F10[0m | [2m48 83 EC 58 44 8B C2 48[0m [96m| Unknown[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | luaH_dummynode            [97m0x67BAE28[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | luaO_pushfstring          [97m0x268D830[0m | [2m48 89 54 24 10 4C 89 44[0m [96m| 0.00[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | LuaVMLoad                 [97m0x2D25080[0m | [2m40 53 56 57 41 56 41 57[0m [96m| Unknown[0m
+
+[global_State]
+  [2m15:20:10[0m | [92m✅ PASS[0m | g_gcstepmul               [97m0x1C[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+
+[lua_State]
+  [2m15:20:10[0m | [92m✅ PASS[0m | L_global_offset           [97m0x78[0m | [2m24 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+
+[MaterialColors]
+  [2m15:20:10[0m | [92m✅ PASS[0m | Asphalt                   [97m0x30[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | Basalt                    [97m0x27[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | Brick                     [97m0xF[0m | [2m00 B8 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | Cobblestone               [97m0x33[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | Concrete                  [97m0xC[0m | [2mFF FF 00 00 B8 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | CrackedLava               [97m0x2D[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | Glacier                   [97m0x1B[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | Grass                     [97m0x6[0m | [2m00 00 04 00 00 00 FF FF[0m [96m| 0.00[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | Ground                    [97m0x2A[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | Ice                       [97m0x36[0m | [2m00 00 00 00 00 00 40 01[0m [96m| 0.00[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | LeafyGrass                [97m0x39[0m | [2m00 00 00 40 01 00 00 0E[0m [96m| 2.00[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | Limestone                 [97m0x3F[0m | [2m00 0E 1F BA 0E 00 B4 09[0m [96m| -0.00[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | Mud                       [97m0x24[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | Pavement                  [97m0x42[0m | [2mBA 0E 00 B4 09 CD 21 B8[0m [96m| -0.00[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | Rock                      [97m0x18[0m | [2m40 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | Salt                      [97m0x3C[0m | [2m40 01 00 00 0E 1F BA 0E[0m [96m| 0.00[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | Sand                      [97m0x12[0m | [2m00 00 00 00 00 00 40 00[0m [96m| 0.00[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | Sandstone                 [97m0x21[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | Slate                     [97m0x9[0m | [2m00 00 00 FF FF 00 00 B8[0m [96m| Unknown[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | Snow                      [97m0x1E[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | WoodPlanks                [97m0x15[0m | [2m00 00 00 40 00 00 00 00[0m [96m| 2.00[0m
+
+[MaterialLayer]
+  [2m15:20:10[0m | [92m✅ PASS[0m | ColorData                 [97m0x24[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | FillModeByte              [97m0x11[0m | [2m00 00 00 00 00 00 00 40[0m [96m| 0.00[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | Flags2                    [97m0x20[0m | [2m00 00 00 00 00 00 00 00[0m [96m| Flag: False[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | MatFlags                  [97m0x18[0m | [2m40 00 00 00 00 00 00 00[0m [96m| Flag: 64[0m
+  [2m15:20:10[0m | [92m✅ PASS[0m | Param                     [97m0x1C[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:11[0m | [92m✅ PASS[0m | Stride                    [97m0x88[0m | [2mB1 47 E1 CF B1 47 E1 CF[0m [96m| Unknown[0m
+
+[MemEnforcedLRUCache]
+  [2m15:20:11[0m | [92m✅ PASS[0m | Head                      [97m0x8[0m | [2m04 00 00 00 FF FF 00 00[0m [96m| 0.00[0m
+
+[MeshContentProvider]
+  [2m15:20:11[0m | [92m✅ PASS[0m | LRUHolder                 [97m0xC0[0m | [2mD7 28 1C CF B6 47 E1 CF[0m [96m| Unknown[0m
+
+[MeshPart]
+  [2m15:20:11[0m | [92m✅ PASS[0m | MeshId                    [97m0x2F8[0m | [2m00 4E 34 00 00 1A 59 08[0m [96m| 0.00[0m
+  [2m15:20:11[0m | [92m✅ PASS[0m | MeshSize                  [97m0x210[0m | [2m00 F5 55 07 28 00 00 00[0m [96m| (0.0, 0.0, 0.0)[0m
+  [2m15:20:11[0m | [92m✅ PASS[0m | Texture                   [97m0x328[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+
+[Misc]
+  [2m15:20:11[0m | [92m✅ PASS[0m | Adornee                   [97m0xE0[0m | [2mE3 32 E4 CE C7 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:11[0m | [92m✅ PASS[0m | AnimationId               [97m0xA8[0m | [2m62 35 E2 CE 92 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:11[0m | [92m✅ PASS[0m | GetProperty               [97m0x4AA60B3[0m | [2m55 07 48 83 7D 1F 10 48[0m [96m| -0.00[0m
+  [2m15:20:11[0m | [92m✅ PASS[0m | NewInstance               [97m0x48D33BA[0m | [2m48 89 7C 24 18 4C 89 64[0m [96m| 0.00[0m
+  [2m15:20:11[0m | [91m❌ FAIL[0m | Print                     [97m0x1D071A0[0m | [2m??[0m
+  [2m15:20:11[0m | [92m✅ PASS[0m | ScriptContextResume       [97m0x43004B0[0m | [2m40 55 53 56 57 41 54 41[0m [96m| Unknown[0m
+  [2m15:20:11[0m | [92m✅ PASS[0m | StringLength              [97m0x10[0m | [2mB8 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:11[0m | [92m✅ PASS[0m | Value                     [97m0xA0[0m | [2m62 35 E0 CE 97 47 E1 CF[0m [96m| Unknown[0m
+
+[Model]
+  [2m15:20:11[0m | [92m✅ PASS[0m | PrimaryPart               [97m0x240[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:11[0m | [92m✅ PASS[0m | Scale                     [97m0x12C[0m | [2mB0 47 E1 CF 52 69 63 68[0m [96m| Unknown[0m
+
+[ModuleScript]
+  [2m15:20:11[0m | [92m✅ PASS[0m | Bytecode                  [97m0x138[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:11[0m | [92m✅ PASS[0m | GUID                      [97m0xC0[0m | [2mD7 28 1C CF B6 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:11[0m | [92m✅ PASS[0m | Hash                      [97m0x348[0m | [2m00 02 00 00 00 6A 8D 08[0m [96m| 0.00[0m
+
+[Motor6D]
+  [2m15:20:11[0m | [92m✅ PASS[0m | Part0                     [97m0x100[0m | [2m7B 32 E5 CE 36 44 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:11[0m | [92m✅ PASS[0m | Part1                     [97m0x110[0m | [2m7B 32 1E CF B0 47 E1 CF[0m [96m| Unknown[0m
+
+[MouseService]
+  [2m15:20:11[0m | [92m✅ PASS[0m | InputObject               [97m0xE8[0m | [2m7B 32 E4 CE 20 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:11[0m | [92m✅ PASS[0m | InputObject2              [97m0xF8[0m | [2m7B 32 E2 CE B4 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:11[0m | [92m✅ PASS[0m | MousePosition             [97m0xBC[0m | [2mC0 47 E1 CF D7 28 1C CF[0m [96m| Unknown[0m
+
+[ParticleEmitter]
+  [2m15:20:11[0m | [92m✅ PASS[0m | Acceleration              [97m0x1C8[0m | [2m30 A8 0E 08 8C 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:11[0m | [92m✅ PASS[0m | Brightness                [97m0x204[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:11[0m | [92m✅ PASS[0m | Drag                      [97m0x208[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:11[0m | [92m✅ PASS[0m | Lifetime                  [97m0x1DC[0m | [2mB8 9C 0B 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:11[0m | [92m✅ PASS[0m | LightEmission             [97m0x220[0m | [2m00 00 00 00 00 00 00 00[0m [96m| Flag: False[0m
+  [2m15:20:11[0m | [92m✅ PASS[0m | LightInfluence            [97m0x224[0m | [2m00 00 00 00 42 52 4B 09[0m [96m| 0.00[0m
+  [2m15:20:11[0m | [92m✅ PASS[0m | Rate                      [97m0x230[0m | [2m60 9F 0E 08 40 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:11[0m | [92m✅ PASS[0m | Rotation                  [97m0x1EC[0m | [2mD0 29 00 00 00 C0 39 09[0m [96m| (0.0, 0.0, 0.0)[0m
+  [2m15:20:11[0m | [92m✅ PASS[0m | RotSpeed                  [97m0x1E4[0m | [2m00 00 00 00 00 88 AA 08[0m [96m| 0.00[0m
+  [2m15:20:11[0m | [92m✅ PASS[0m | Speed                     [97m0x1F4[0m | [2m54 70 11 00 30 F4 55 07[0m [96m| 0.00[0m
+  [2m15:20:11[0m | [92m✅ PASS[0m | SpreadAngle               [97m0x1FC[0m | [2m70 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:11[0m | [92m✅ PASS[0m | Texture                   [97m0x1A8[0m | [2m00 10 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:11[0m | [92m✅ PASS[0m | TimeScale                 [97m0x244[0m | [2m00 00 00 00 2E 74 65 78[0m [96m| 0.00[0m
+  [2m15:20:11[0m | [92m✅ PASS[0m | VelocityInheritance       [97m0x248[0m | [2m2E 74 65 78 74 00 00 00[0m [96m| Str: ".text"[0m
+  [2m15:20:11[0m | [92m✅ PASS[0m | ZOffset                   [97m0x24C[0m | [2m74 00 00 00 8C 35 43 06[0m [96m| 0.00[0m
+
+[Player]
+  [2m15:20:11[0m | [92m✅ PASS[0m | AccountAge                [97m0x34C[0m | [2m00 6A 8D 08 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:11[0m | [92m✅ PASS[0m | CameraMode                [97m0x368[0m | [2m30 02 00 00 00 00 2E 09[0m [96m| (0.0, 0.0, 0.0)[0m
+  [2m15:20:11[0m | [92m✅ PASS[0m | DisplayName               [97m0x128[0m | [2m7B 32 E3 CE B0 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | HealthDisplayDistance     [97m0x38C[0m | [2m64 00 00 00 BD 01 00 00[0m [96m| 0.00[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | LocaleId                  [97m0x100[0m | [2m7B 32 E5 CE 36 44 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | LocalPlayer               [97m0x118[0m | [2m7B 32 E8 CE 6C 67 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | MaxZoomDistance           [97m0x360[0m | [2m5F 52 44 41 54 41 00 00[0m [96m| 12.27[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | MinZoomDistance           [97m0x364[0m | [2m54 41 00 00 30 02 00 00[0m [96m| 0.00[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | ModelInstance             [97m0x290[0m | [2m00 00 00 00 20 00 00 60[0m [96m| 0.00[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | Mouse                     [97m0x1208[0m | [2m41 B8 04 00 00 00 FF 15[0m [96m| 0.00[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | NameDisplayDistance       [97m0x39C[0m | [2m00 70 8D 08 00 00 00 00[0m [96m| Flag: False[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | Team                      [97m0x2D0[0m | [2m00 26 4A 00 00 F4 0E 08[0m [96m| 0.00[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | TeamColor                 [97m0x3A8[0m | [2m00 00 00 00 40 00 00 C2[0m [96m| 0.00[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | UserId                    [97m0xC8[0m | [2mE3 32 E5 CE A2 47 E1 CF[0m [96m| Unknown[0m
+
+[Primitive]
+  [2m15:20:12[0m | [92m✅ PASS[0m | AssemblyAngularVelocity   [97m0xEC[0m | [2m20 47 E1 CF B1 47 E0 CF[0m [96m| Unknown[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | AssemblyLinearVelocity    [97m0xE0[0m | [2mE3 32 E4 CE C7 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | Flags                     [97m0x1BE[0m | [2m00 00 00 00 00 00 10 00[0m [96m| Flag: False[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | Material                  [97m0x0[0m | [2m4D 5A 90 00 03 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | Owner                     [97m0x218[0m | [2m60 E2 68 06 38 01 00 00[0m [96m| 0.00[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | Position                  [97m0xD4[0m | [2mA3 47 E1 CF E2 38 E4 CE[0m [96m| Unknown[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | Rotation                  [97m0xB0[0m | [2m62 35 E4 CE 6A 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | Size                      [97m0x1C4[0m | [2m10 00 00 00 30 A8 0E 08[0m [96m| (0.0, 0.0, 0.0)[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | Validate                  [97m0x6[0m | [2m00 00 04 00 00 00 FF FF[0m [96m| 0.00[0m
+
+[PrimitiveFlags]
+  [2m15:20:12[0m | [92m✅ PASS[0m | Anchored                  [97m0x2[0m | [2m90 00 03 00 00 00 04 00[0m [96m| 0.00[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | CanCollide                [97m0x8[0m | [2m04 00 00 00 FF FF 00 00[0m [96m| 0.00[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | CanQuery                  [97m0x20[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | CanTouch                  [97m0x10[0m | [2mB8 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+
+[ProximityPrompt]
+  [2m15:20:12[0m | [92m✅ PASS[0m | ActionText                [97m0x98[0m | [2m62 35 E7 CE B0 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | Enabled                   [97m0x68[0m | [2m20 69 6E 20 44 4F 53 20[0m [96m| 0.00[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | GamepadKeyCode            [97m0x104[0m | [2m36 44 E1 CF B1 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | HoldDuration              [97m0x108[0m | [2mB1 47 E1 CF E3 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | KeyCode                   [97m0x10C[0m | [2mE3 47 E1 CF 7B 32 1E CF[0m [96m| Unknown[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | MaxActivationDistance     [97m0x110[0m | [2m7B 32 1E CF B0 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | ObjectText                [97m0xB8[0m | [2m62 35 E5 CE C0 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | RequiresLineOfSight       [97m0x11F[0m | [2mCF 7B 32 E1 CE B0 47 E1[0m [96m| Unknown[0m
+
+[Reflection]
+  [2m15:20:12[0m | [92m✅ PASS[0m | CreatorTable              [97m0x8B63C68[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | EntryValue                [97m0x8[0m | [2m04 00 00 00 FF FF 00 00[0m [96m| 0.00[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | NameRegistry              [97m0x8681BC0[0m | [2mD8 52 7D 15 B9 02 00 00[0m [96m| 0x2B9157D52D8[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | NameTable                 [97m0x50[0m | [2m69 73 20 70 72 6F 67 72[0m [96m| Unknown[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | TableEmpty                [97m0x20[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | TableEnd                  [97m0x8[0m | [2m04 00 00 00 FF FF 00 00[0m [96m| 0.00[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | TableStart                [97m0x0[0m | [2m4D 5A 90 00 03 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | TableStride               [97m0x10[0m | [2mB8 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+
+[RemoteEvent]
+  [2m15:20:12[0m | [92m✅ PASS[0m | BaseVTableRva             [97m0x7057398[0m | [2mD0 D8 8D 59 F7 7F 00 00[0m [96m| Unknown[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | HookSlotCount             [97m0x7[0m | [2m00 04 00 00 00 FF FF 00[0m [96m| 0.00[0m
+  [2m15:20:12[0m | [92m✅ PASS[0m | InstanceVTableRva         [97m0x6FE27D8[0m | [2mC0 4A C0 56 F7 7F 00 00[0m [96m| 0x7FF756C04AC0[0m
+  [2m15:20:13[0m | [91m❌ FAIL[0m | SignalFire                [97m0x35B5F70[0m | [2m??[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | SignalFireSlot            [97m0x2[0m | [2m90 00 03 00 00 00 04 00[0m [96m| 0.00[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | VTableRva                 [97m0x705CD60[0m | [2m00 5E 9B 59 F7 7F 00 00[0m [96m| Unknown[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | VTableSlots               [97m0x4F[0m | [2m68 69 73 20 70 72 6F 67[0m [96m| 0.00[0m
+
+[Fire]
+  [2m15:20:13[0m | [92m✅ PASS[0m | InvokeClient              [97m0x35B2247[0m | [2m48 8D 15 FA CE DA 03 48[0m [96m| Unknown[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | InvokeClientPrep          [97m0x74D260[0m | [2m40 53 48 83 EC 30 48 8B[0m [96m| -0.00[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | InvokeServer              [97m0x35B1E77[0m | [2m48 8D 15 62 D2 DA 03 48[0m [96m| Unknown[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | InvokeServerPrep          [97m0x74D260[0m | [2m40 53 48 83 EC 30 48 8B[0m [96m| -0.00[0m
+
+[RenderJob]
+  [2m15:20:13[0m | [92m✅ PASS[0m | FakeDataModel             [97m0x38[0m | [2m00 00 00 00 40 01 00 00[0m [96m| 0.00[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | RealDataModel             [97m0x1F0[0m | [2m00 C0 39 09 54 70 11 00[0m [96m| 0.00[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | RenderView                [97m0x1E0[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+
+[RenderView]
+  [2m15:20:13[0m | [92m✅ PASS[0m | DeviceD3D11               [97m0x8[0m | [2m04 00 00 00 FF FF 00 00[0m [96m| 0.00[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | LightingValid             [97m0x1F8[0m | [2m30 F4 55 07 70 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | SkyValid                  [97m0x2DC[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | VisualEngine              [97m0x18[0m | [2m40 00 00 00 00 00 00 00[0m [96m| Flag: 64[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | VTableRva                 [97m0x70633F0[0m | [2m80 4D AF 59 F7 7F 00 00[0m [96m| Unknown[0m
+
+[RunService]
+  [2m15:20:13[0m | [92m✅ PASS[0m | HeartbeatFPS              [97m0xC8[0m | [2mE3 32 E5 CE A2 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | HeartbeatTask             [97m0xD8[0m | [2mE2 38 E4 CE B0 47 E1 CF[0m [96m| Unknown[0m
+
+[Script]
+  [2m15:20:13[0m | [92m✅ PASS[0m | GUID                      [97m0xC0[0m | [2mD7 28 1C CF B6 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | Hash                      [97m0x188[0m | [2m06 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+
+[Seat]
+  [2m15:20:13[0m | [92m✅ PASS[0m | Occupant                  [97m0x200[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+
+[ShaderManager]
+  [2m15:20:13[0m | [92m✅ PASS[0m | VTableRva                 [97m0x7064978[0m | [2m00 2A C8 59 F7 7F 00 00[0m [96m| 0x7FF759C82A00[0m
+
+[Sky]
+  [2m15:20:13[0m | [92m✅ PASS[0m | DrawCubeCallA             [97m0x3815B49[0m | [2mA8 0B 00 00 49 8B 02 4C[0m [96m| 0.00[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | DrawCubeCallB             [97m0x3815C21[0m | [2m49 B6 03 48 8D 0D DD 49[0m [96m| 134873.14[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | DrawSkyEnv                [97m0x3815B49[0m | [2mA8 0B 00 00 49 8B 02 4C[0m [96m| 0.00[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | DrawSkyPixel              [97m0x3815C21[0m | [2m49 B6 03 48 8D 0D DD 49[0m [96m| 134873.14[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | DrawStars                 [97m0x3816FDC[0m | [2m21 45 33 E4 44 0F 10 8D[0m [96m| Unknown[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | DrawStarsB                [97m0x38170A0[0m | [2m8B 18 48 8B 50 08 4C 89[0m [96m| -0.00[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | DrawSun                   [97m0x381671C[0m | [2m18 48 83 6C 24 60 01 0F[0m [96m| Unknown[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | MoonAngularSize           [97m0x22C[0m | [2m10 00 00 00 60 9F 0E 08[0m [96m| (0.0, 0.0, 0.0)[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | MoonTextureId             [97m0xB0[0m | [2m62 35 E4 CE 6A 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | SkyboxBk                  [97m0xE0[0m | [2mE3 32 E4 CE C7 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | SkyboxDn                  [97m0x110[0m | [2m7B 32 1E CF B0 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | SkyboxFt                  [97m0x140[0m | [2m50 45 00 00 64 86 0D 00[0m [96m| 0.00[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | SkyboxLf                  [97m0x170[0m | [2m00 00 40 56 F7 7F 00 00[0m [96m| 0x7FF756400000[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | SkyboxOrientation         [97m0x220[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | SkyboxRt                  [97m0x1A0[0m | [2m00 00 40 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | SkyboxUp                  [97m0x1D0[0m | [2m0A 52 4B 09 28 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | SkyGroup                  [97m0x3810D7A[0m | [2m48 8D 05 5F 9A B6 03 48[0m [96m| Unknown[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | StarCount                 [97m0x230[0m | [2m60 9F 0E 08 40 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | SunAngularSize            [97m0x224[0m | [2m00 00 00 00 42 52 4B 09[0m [96m| (0.0, 0.0, 0.0)[0m
+  [2m15:20:13[0m | [92m✅ PASS[0m | SunTextureId              [97m0x200[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+
+[Sound]
+  [2m15:20:13[0m | [92m✅ PASS[0m | IsPlaying                 [97m0x128[0m | [2m7B 32 E3 CE B0 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | Looped                    [97m0x95[0m | [2m47 E1 CF 62 35 E7 CE B0[0m [96m| Unknown[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | PlaybackSpeed             [97m0x104[0m | [2m36 44 E1 CF B1 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | RollOffMaxDistance        [97m0x108[0m | [2mB1 47 E1 CF E3 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | RollOffMinDistance        [97m0x10C[0m | [2mE3 47 E1 CF 7B 32 1E CF[0m [96m| Unknown[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | SoundGroup                [97m0xD0[0m | [2mE3 32 E2 CE A3 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | SoundId                   [97m0xB0[0m | [2m62 35 E4 CE 6A 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | Volume                    [97m0x118[0m | [2m7B 32 E8 CE 6C 67 E1 CF[0m [96m| Unknown[0m
+
+[SpawnLocation]
+  [2m15:20:14[0m | [92m✅ PASS[0m | AllowTeamChangeOnTouch    [97m0x38[0m | [2m00 00 00 00 40 01 00 00[0m [96m| Flag: False[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | Enabled                   [97m0x1D9[0m | [2m20 2E 09 B8 9C 0B 00 00[0m [96m| -0.00[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | ForcefieldDuration        [97m0x1D0[0m | [2m0A 52 4B 09 28 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | Neutral                   [97m0x1DA[0m | [2m2E 09 B8 9C 0B 00 00 00[0m [96m| -0.00[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | TeamColor                 [97m0x1D4[0m | [2m28 00 00 00 00 20 2E 09[0m [96m| 0.00[0m
+
+[SpecialMesh]
+  [2m15:20:14[0m | [92m✅ PASS[0m | MeshId                    [97m0xE0[0m | [2mE3 32 E4 CE C7 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | Scale                     [97m0xAC[0m | [2m92 47 E1 CF 62 35 E4 CE[0m [96m| Unknown[0m
+
+[StatsItem]
+  [2m15:20:14[0m | [92m✅ PASS[0m | Value                     [97m0x278[0m | [2mF0 08 00 00 00 50 43 06[0m [96m| 0.00[0m
+
+[SunRaysEffect]
+  [2m15:20:14[0m | [92m✅ PASS[0m | Enabled                   [97m0x98[0m | [2m62 35 E7 CE B0 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | Intensity                 [97m0xA0[0m | [2m62 35 E0 CE 97 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | Spread                    [97m0xA4[0m | [2m97 47 E1 CF 62 35 E2 CE[0m [96m| Unknown[0m
+
+[SurfaceAppearance]
+  [2m15:20:14[0m | [92m✅ PASS[0m | AlphaMode                 [97m0x1D8[0m | [2m00 20 2E 09 B8 9C 0B 00[0m [96m| 0.00[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | Color                     [97m0x1C0[0m | [2m00 00 00 00 10 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | ColorMap                  [97m0xB0[0m | [2m62 35 E4 CE 6A 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | EmissiveMaskContent       [97m0xE0[0m | [2mE3 32 E4 CE C7 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | EmissiveStrength          [97m0x1DC[0m | [2mB8 9C 0B 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | EmissiveTint              [97m0x1CC[0m | [2m8C 00 00 00 0A 52 4B 09[0m [96m| 0.00[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | MetalnessMap              [97m0x110[0m | [2m7B 32 1E CF B0 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | NormalMap                 [97m0x140[0m | [2m50 45 00 00 64 86 0D 00[0m [96m| 0.00[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | RoughnessMap              [97m0x170[0m | [2m00 00 40 56 F7 7F 00 00[0m [96m| 0x7FF756400000[0m
+
+[TaskScheduler]
+  [2m15:20:14[0m | [92m✅ PASS[0m | JobEnd                    [97m0xD0[0m | [2mE3 32 E2 CE A3 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | JobName                   [97m0x18[0m | [2m40 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | JobStart                  [97m0xC8[0m | [2mE3 32 E5 CE A2 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | MaxFPS                    [97m0xB0[0m | [2m62 35 E4 CE 6A 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | Pointer                   [97m0x8F026A8[0m | [2m00 10 DE 15 B9 02 00 00[0m [96m| 0x2B915DE1000[0m
+
+[Team]
+  [2m15:20:14[0m | [92m✅ PASS[0m | BrickColor                [97m0xA0[0m | [2m62 35 E0 CE 97 47 E1 CF[0m [96m| Unknown[0m
+
+[TechniqueArray]
+  [2m15:20:14[0m | [92m✅ PASS[0m | BeginOffset               [97m0x0[0m | [2m4D 5A 90 00 03 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | EndOffset                 [97m0x8[0m | [2m04 00 00 00 FF FF 00 00[0m [96m| 0.00[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | EntryStride               [97m0x88[0m | [2mB1 47 E1 CF B1 47 E1 CF[0m [96m| Unknown[0m
+
+[Terrain]
+  [2m15:20:14[0m | [92m✅ PASS[0m | GrassLength               [97m0x1D8[0m | [2m00 20 2E 09 B8 9C 0B 00[0m [96m| 0.00[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | MaterialColors            [97m0x4A0[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | WaterColor                [97m0x1C8[0m | [2m30 A8 0E 08 8C 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | WaterReflectance          [97m0x1E0[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | WaterTransparency         [97m0x1E4[0m | [2m00 00 00 00 00 88 AA 08[0m [96m| 0.00[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | WaterWaveSize             [97m0x1E8[0m | [2m00 88 AA 08 D0 29 00 00[0m [96m| (0.0, 0.0, 0.0)[0m
+  [2m15:20:14[0m | [92m✅ PASS[0m | WaterWaveSpeed            [97m0x1EC[0m | [2mD0 29 00 00 00 C0 39 09[0m [96m| 0.00[0m
+
+[TextLabel]
+  [2m15:20:14[0m | [92m✅ PASS[0m | ContentText               [97m0xE38[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:15[0m | [92m✅ PASS[0m | LocalizedText             [97m0xBD0[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:15[0m | [92m✅ PASS[0m | MaxVisibleGraphemes       [97m0xA0[0m | [2m62 35 E0 CE 97 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:15[0m | [92m✅ PASS[0m | RichText                  [97m0x337[0m | [2mC0 43 50 41 44 69 6E 66[0m [96m| 13.02[0m
+  [2m15:20:15[0m | [92m✅ PASS[0m | Text                      [97m0xBD0[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:15[0m | [92m✅ PASS[0m | TextColor3                [97m0xEE8[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:15[0m | [92m✅ PASS[0m | TextSize                  [97m0xDA4[0m | [2m00 00 00 00 00 00 00 00[0m [96m| (0.0, 0.0, 0.0)[0m
+
+[Textures]
+  [2m15:20:15[0m | [92m✅ PASS[0m | Decal_Texture             [97m0x1C8[0m | [2m30 A8 0E 08 8C 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:15[0m | [92m✅ PASS[0m | Face                      [97m0xB8[0m | [2m62 35 E5 CE C0 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:15[0m | [92m✅ PASS[0m | StudsPerTile              [97m0x2D8[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:15[0m | [92m✅ PASS[0m | Texture_Texture           [97m0x1C8[0m | [2m30 A8 0E 08 8C 00 00 00[0m [96m| 0.00[0m
+
+[UnionOperation]
+  [2m15:20:15[0m | [92m✅ PASS[0m | AssetId                   [97m0x2F8[0m | [2m00 4E 34 00 00 1A 59 08[0m [96m| 0.00[0m
+  [2m15:20:15[0m | [92m✅ PASS[0m | FormFactor                [97m0x110[0m | [2m7B 32 1E CF B0 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:15[0m | [92m✅ PASS[0m | SmoothingAngle            [97m0x39C[0m | [2m00 70 8D 08 00 00 00 00[0m [96m| 0.00[0m
+
+[UserInputService]
+  [2m15:20:15[0m | [92m✅ PASS[0m | WindowInputState          [97m0x2A8[0m | [2m00 AE CB 01 00 46 43 06[0m [96m| 0.00[0m
+
+[VehicleSeat]
+  [2m15:20:15[0m | [92m✅ PASS[0m | MaxSpeed                  [97m0x210[0m | [2m00 F5 55 07 28 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:15[0m | [92m✅ PASS[0m | SteerFloat                [97m0x214[0m | [2m28 00 00 00 60 E2 68 06[0m [96m| 0.00[0m
+  [2m15:20:15[0m | [92m✅ PASS[0m | ThrottleFloat             [97m0x218[0m | [2m60 E2 68 06 38 01 00 00[0m [96m| 0.00[0m
+  [2m15:20:15[0m | [92m✅ PASS[0m | Torque                    [97m0x21C[0m | [2m38 01 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:15[0m | [92m✅ PASS[0m | TurnSpeed                 [97m0x220[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+
+[ViewBase]
+  [2m15:20:15[0m | [92m✅ PASS[0m | VTableRva                 [97m0x7063668[0m | [2m70 7A 21 5C F7 7F 00 00[0m [96m| 0x7FF75C217A70[0m
+
+[ViewportFrame]
+  [2m15:20:15[0m | [92m✅ PASS[0m | Ambient                   [97m0xA10[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:15[0m | [92m✅ PASS[0m | CameraFieldOfView         [97m0xA40[0m | [2m00 00 00 00 00 00 00 00[0m [96m| (0.0, 0.0, 0.0)[0m
+  [2m15:20:15[0m | [92m✅ PASS[0m | LightColor                [97m0xA28[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:15[0m | [92m✅ PASS[0m | LightDirection            [97m0xA34[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+
+[VisualEngine]
+  [2m15:20:15[0m | [92m✅ PASS[0m | Dimensions                [97m0xB10[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:15[0m | [92m✅ PASS[0m | FakeDataModel             [97m0xAF0[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:15[0m | [92m✅ PASS[0m | Pointer                   [97m0x89DC1A0[0m | [2mD0 90 2B 1F B9 02 00 00[0m [96m| 0x2B91F2B90D0[0m
+  [2m15:20:15[0m | [92m✅ PASS[0m | RenderView                [97m0xC40[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:15[0m | [92m✅ PASS[0m | ViewMatrix                [97m0x1B0[0m | [2m00 00 10 00 00 00 00 00[0m [96m| 0.00[0m
+
+[Weld]
+  [2m15:20:15[0m | [92m✅ PASS[0m | Part0                     [97m0x100[0m | [2m7B 32 E5 CE 36 44 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:15[0m | [92m✅ PASS[0m | Part1                     [97m0x110[0m | [2m7B 32 1E CF B0 47 E1 CF[0m [96m| Unknown[0m
+
+[WeldConstraint]
+  [2m15:20:15[0m | [92m✅ PASS[0m | Part0                     [97m0xA0[0m | [2m62 35 E0 CE 97 47 E1 CF[0m [96m| Unknown[0m
+  [2m15:20:15[0m | [92m✅ PASS[0m | Part1                     [97m0xB0[0m | [2m62 35 E4 CE 6A 47 E1 CF[0m [96m| Unknown[0m
+
+[WindowInputState]
+  [2m15:20:15[0m | [92m✅ PASS[0m | CapsLock                  [97m0x40[0m | [2m0E 1F BA 0E 00 B4 09 CD[0m [96m| 0.00[0m
+  [2m15:20:15[0m | [92m✅ PASS[0m | CurrentTextBox            [97m0x48[0m | [2m21 B8 01 4C CD 21 54 68[0m [96m| Unknown[0m
+
+[Workspace]
+  [2m15:20:15[0m | [92m✅ PASS[0m | CurrentCamera             [97m0x4A0[0m | [2m00 00 00 00 00 00 00 00[0m [96m| (0.0, 0.0, 0.0)[0m
+  [2m15:20:15[0m | [92m✅ PASS[0m | DistributedGameTime       [97m0x4C8[0m | [2m00 00 00 00 00 00 00 00[0m [96m| Flag: False[0m
+  [2m15:20:15[0m | [92m✅ PASS[0m | ReadOnlyGravity           [97m0x9C8[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:15[0m | [92m✅ PASS[0m | World                     [97m0x3F8[0m | [2m00 00 00 00 40 00 00 42[0m [96m| 0.00[0m
+
+[World]
+  [2m15:20:15[0m | [92m✅ PASS[0m | AirProperties             [97m0x238[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:15[0m | [92m✅ PASS[0m | FallenPartsDestroyHeight  [97m0x214[0m | [2m28 00 00 00 60 E2 68 06[0m [96m| 0.00[0m
+  [2m15:20:15[0m | [92m✅ PASS[0m | Gravity                   [97m0x220[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+  [2m15:20:15[0m | [92m✅ PASS[0m | Primitives                [97m0x2A8[0m | [2m00 AE CB 01 00 46 43 06[0m [96m| 0.00[0m
+  [2m15:20:15[0m | [92m✅ PASS[0m | worldStepsPerSec          [97m0x860[0m | [2m00 00 00 00 00 00 00 00[0m [96m| 0.00[0m
+
+[WorldRoot]
+  [2m15:20:16[0m | [92m✅ PASS[0m | RaycastBoundDesc          [97m0x86E0D50[0m | [2m58 4F 34 5D F7 7F 00 00[0m [96m| 0x7FF75D344F58[0m
+  [2m15:20:16[0m | [92m✅ PASS[0m | RaycastBoundFn            [97m0x90[0m | [2mB8 3F 72 CF 9B 47 E1 CF[0m [96m| Unknown[0m
+
+
+byteblue offsets test results
+✅ 486/488 Tests Passed
+❌ 2/488 Test Failed/Missing
+⚠️ 0/488 missing aliases/ or not returning correct vlue
